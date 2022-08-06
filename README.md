@@ -30,6 +30,6 @@
 
 Target Variable: 'Class’ such as Rock, Indie, Alt, Pop, Metal, HipHop, Alt_Music, Blues, Acoustic/Folk, Instrumental, Country, Bollywood
 
-## Train & Test set:
-- Training dataset: 14395 rows with 18 columns
-- Test dataset: 3600 rows with 17 columns
+## Dataset:
+- dataset: 14395 rows with 18 columns
+
